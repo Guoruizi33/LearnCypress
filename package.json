@@ -1,0 +1,21 @@
+{
+  "name": "learncypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guoruizi33/LearnCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guoruizi33/LearnCypress/issues"
+  },
+  "homepage": "https://github.com/Guoruizi33/LearnCypress#readme",
+  "devDependencies": {
+    "cypress": "^4.8.0"
+  }
+}

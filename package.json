@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "cy:run": "node scripts/cypress.js",
+    "runCases": "npx cypress run --spec 'cypress/integration/examples/actions.spec.js, cypress/integration/examples/aliasing.spec.js'"
   },
   "repository": {
     "type": "git",

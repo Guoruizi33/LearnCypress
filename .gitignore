@@ -1,4 +1,8 @@
-node_modules/
+node_modules/*
+!node_modules/mocha/
+!node_modules/mochawesome/
+!node_modules/mochawesome-merge/
+!node_modules/mochawesome-report-generator/
 .vscode/
 screenshots/
 videos/

@@ -1,10 +1,5 @@
-node_modules/*
-!node_modules/mocha/
-!node_modules/mochawesome/
-!node_modules/mochawesome-merge/
-!node_modules/mochawesome-report-generator/
-!node_modules/cypress-multi-reporters/
 .vscode/
 screenshots/
 videos/
 results/
+node_modules/*
